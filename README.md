@@ -15,7 +15,7 @@
   Find me around the web:
   <a href="https://kashishgoel9.github.io/PersonalWebsite/">Website</a> 
   <a href="https://www.linkedin.com/in/kashishgoel930/">LinkedIn</a>
-  <a href="">Medium</a>
+  <a href="https://medium.com/@kashijioel930">Medium</a>
 </p>
 
 - My Pronouns: She/Her   
